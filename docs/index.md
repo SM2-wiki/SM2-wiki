@@ -1,6 +1,6 @@
-# Welcome To SM2-wiki!
+# Welcome to SM2-wiki!
 
 This website is being built...
 
-Please Wait
+Please wait
 
