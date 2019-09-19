@@ -1,1 +1,61 @@
-site_name: My Docs
+site_name: SM2 Wiki
+site_description: For Chinese students to prepare for SM2 Scholoars
+site_author: Lyu Xiaoteng
+
+repo_name: 'SM2-Wiki'
+repo_url: 'https://github.com/Rye-Catcher/SM2-Wiki'
+edit_uri: 'edit/master/docs/'
+
+
+nav:
+
+   - 主页:
+      - 简介: index.md
+      - 关于: intro/about.md
+  
+theme:
+  name: 'material'
+  language: 'zh'
+  feature:
+     tabs: true
+  
+extra_javascript:
+  - '_static/js/extra.js?v=15'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
+
+plugins:
+    - search:
+       lang: 'jp'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+      #emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      #emoji_generator: !!python/name:pymdownx.emoji.to_png_sprite
+      #emoji_generator: !!python/name:pymdownx.emoji.to_svg_sprite
+      #emoji_generator: !!python/name:pymdownx.emoji.to_awesome
+      #emoji_generator: !!python/name:pymdownx.emoji.to_alt
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+
