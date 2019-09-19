@@ -8,5 +8,5 @@
 
 ---
 
-(Crow Lyu)[https://github.com/Rye-Catcher]
+[Crow Lyu](https://github.com/Rye-Catcher)
 于2019/9/20午夜@PGPR
