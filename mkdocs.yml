@@ -7,6 +7,12 @@ repo_url: 'https://github.com/Rye-Catcher/SM2-Wiki'
 edit_uri: 'edit/master/docs/'
 
 
+copyright: 'Copyright &copy; 2019 '
+
+google_analytics:
+  - 'UA-148396512-1'
+  - 'auto'
+
 nav:
 
    - 主页:
