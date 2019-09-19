@@ -1,6 +1,18 @@
-# Welcome to SM2-wiki!
+# Welcome to SM2 Wiki!
 
-This website is being built...
+For Chinese students to prepare for SM2 scholars
 
-Please wait
+Welcome your help&support!
 
+Making your contribution by creating pull requests or posting issues! 
+
+---
+
+### contact me:
+
+QQ: 2427367956
+
+e-mail: lyuxiaot@gmail.com
+
+
+> Project started running from 2019/9/19
