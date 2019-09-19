@@ -2,6 +2,8 @@
 
 For Chinese students to prepare for SM2 scholars
 
+Welcome your contribution !
+
 ### contact me:
 
 QQ: 2427367956
