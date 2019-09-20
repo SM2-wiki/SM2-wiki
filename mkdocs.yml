@@ -7,12 +7,12 @@ repo_url: 'https://github.com/Rye-Catcher/SM2-Wiki'
 edit_uri: 'edit/master/docs/'
 
 
-copyright: 'Copyright &copy; 2019 '
+copyright: 'Copyright &copy; 2019 Lyu Xiaoteng'
 
 google_analytics:
   - 'UA-148396512-1'
   - 'auto'
-
+  
 nav:
 
    - 主页:
@@ -24,6 +24,11 @@ theme:
   language: 'zh'
   feature:
      tabs: true
+  
+extra:
+  disqus: 'SM2-wiki'
+  pagetime: 'on'
+  copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   
 extra_javascript:
   - '_static/js/extra.js?v=15'
