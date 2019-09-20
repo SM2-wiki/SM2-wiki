@@ -8,9 +8,10 @@ Making your contribution by creating pull requests or posting issues!
 
 View this project on [Github](https://github.com/Rye-Catcher/SM2-wiki)
 
+
 ---
 
-### contact me:
+**Contact me**
 
 QQ: 2427367956
 
