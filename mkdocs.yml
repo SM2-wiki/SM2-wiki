@@ -26,9 +26,9 @@ theme:
      tabs: true
   
 extra:
-  disqus: 'SM2-wiki'
-  #pagetime: 'on'
-  #copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
+  #disqus: 'SM2-wiki'
+  pagetime: 'on'
+  copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   social:
     - type: github
       link: https://github.com/Rye-Catcher
