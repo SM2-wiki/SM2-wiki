@@ -9,9 +9,9 @@ edit_uri: 'edit/master/docs/'
 
 copyright: 'Copyright &copy; 2019 Lyu Xiaoteng'
 
-google_analytics:
-  - 'UA-148396512-1'
-  - 'auto'
+#google_analytics:
+  #- 'UA-148396512-1'
+  #- 'auto'
   
 nav:
 
@@ -25,9 +25,9 @@ theme:
   feature:
      tabs: true
   
-extra:
-  disqus: 'SM2-wiki'
-  pagetime: 'on'
+#extra:
+  #disqus: 'SM2-wiki'
+  #pagetime: 'on'
   #copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   
 extra_javascript:
