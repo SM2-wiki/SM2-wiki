@@ -14,7 +14,7 @@ Powered by [Mkdocs](https://www.mkdocs.org)
 
 - write instructions on markdown format
 
-- write a blog passage about this experience
+- ~write a blog passage about this experience~
 
 - add more contents to README.md , index.md and about.md
 
@@ -22,7 +22,7 @@ Powered by [Mkdocs](https://www.mkdocs.org)
   
   - maybe generate an image of SM2
   
-- *update SM2in wikipedia
+- *update SM2 in wikipedia
 
 
 ### contact me:
