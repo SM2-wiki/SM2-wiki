@@ -26,10 +26,10 @@ theme:
   feature:
      tabs: true
   text: 'Fira Sans'
-  code: 'Fira Mono'
+  code: 'Roboto Mono'
   
 extra:
-  disqus: 'SM2-wiki'
+  #disqus: 'SM2-wiki'
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   social:
