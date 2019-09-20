@@ -1,6 +1,7 @@
 site_name: SM2 Wiki
-site_description: 'For Chinese students to prepare for SM2 Scholoars'
-site_author: 'Lyu Xiaoteng'
+site_description: For Chinese students to prepare for SM2 Scholoars
+site_author: Lyu Xiaoteng
+site_url: https://rye-catcher.github.io/SM2-wiki/
 
 repo_name: 'SM2-Wiki'
 repo_url: 'https://github.com/Rye-Catcher/SM2-Wiki'
@@ -24,9 +25,11 @@ theme:
   language: 'zh'
   feature:
      tabs: true
+  text: 'Fira Sans'
+  code: 'Fira Mono'
   
 extra:
-  #disqus: 'SM2-wiki'
+  disqus: 'SM2-wiki'
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   social:
