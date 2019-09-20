@@ -28,7 +28,7 @@ theme:
 extra:
   disqus: 'SM2-wiki'
   pagetime: 'on'
-  copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
+  #copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   
 extra_javascript:
   - '_static/js/extra.js?v=15'
