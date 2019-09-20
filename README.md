@@ -4,7 +4,7 @@ For Chinese students to prepare for SM2 scholars
 
 Welcome your contribution !
 
-Powered by [Mkdocs](www.mkdocs.org)
+Powered by [Mkdocs](https://www.mkdocs.org)
 
 ### To-do list
 
