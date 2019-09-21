@@ -1,14 +1,14 @@
 site_name: SM2 Wiki
 site_description: For Chinese students to prepare for SM2 Scholoars
-site_author: Lyu Xiaoteng
+site_author: SM2-wiki Team
 site_url: https://rye-catcher.github.io/SM2-wiki/
 
-repo_name: 'SM2-Wiki'
-repo_url: 'https://github.com/Rye-Catcher/SM2-Wiki'
+repo_name: 'SM2-wiki'
+repo_url: 'https://github.com/SM2-wiki/SM2-wiki'
 edit_uri: 'edit/master/docs/'
 
 
-copyright: 'Copyright &copy; 2019 Lyu Xiaoteng'
+copyright: 'Copyright &copy; 2019 SM2-wiki Team'
 
 google_analytics:
   - 'UA-148396512-1'
@@ -34,7 +34,7 @@ extra:
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   social:
     - type: github
-      link: https://github.com/Rye-Catcher
+      link: https://github.com/SM2-wiki
   search:
     language: 'jp'
   
