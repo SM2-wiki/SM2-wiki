@@ -1,3 +1,6 @@
+disqus: 'SM2-wiki'
+pagetime: 'on'
+
 ## 它的故事
 
 为了让对这个奖学金项目感兴趣的人更好地了解这个项目，也为了学弟学妹方便的找到更多的相关资料(网上的资料实在是太少了)，深受[OI wiki](https://oi-wiki.org/)启发的我在一节C语言lab上决定搭一个SM2 wiki. 
