@@ -1,4 +1,6 @@
 title: SM2 Wiki
+date: 2019/9/22
+web: https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/index.md 
 
 # Welcome to **SM2 Wiki**!  [![GitHub watchers](https://img.shields.io/github/watchers/SM2-wiki/SM2-wiki.svg?style=social&label=Watch)](https://github.com/SM2-wiki/SM2-wiki)  [![GitHub stars](https://img.shields.io/github/stars/SM2-wiki/SM2-wiki.svg?style=social&label=Stars)](https://github.com/SM2-wiki/SM2-wiki) 
 
