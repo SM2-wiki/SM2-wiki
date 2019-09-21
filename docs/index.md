@@ -1,3 +1,5 @@
+title: 
+
 # Welcome to SM2 Wiki!
 
 For Chinese students to prepare for SM2 scholars
