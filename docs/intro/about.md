@@ -1,4 +1,3 @@
-disqus: 'SM2-wiki'
 pagetime: 'on'
 
 ## 它的故事
