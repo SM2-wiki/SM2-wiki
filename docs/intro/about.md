@@ -8,7 +8,7 @@ pagetime: 'on'
 
 如果你也想搭一个类似的网站,[这篇文章](https://rye-catcher.github.io/2019/09/20/%E6%90%AD%E5%BB%BASM2-Wiki%E4%B9%8B%E8%B7%AF/)是我搭建网站的经历，希望可以作为一点参考
 
-如你所见这个网站还相当的简单，希望日后能得到你们的帮助
+如你所见这个网站还相当的简单，希望日后能得到你们的帮助，欢迎加入[SM2 Wiki团队](https://github.com/SM2-wiki)作出你的贡献
 
 ---
 
