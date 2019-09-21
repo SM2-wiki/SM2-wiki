@@ -4,7 +4,10 @@ For Chinese students to prepare for SM2 scholars
 
 Welcome your contribution !
 
+View our github organization: [SM2-wiki Team](https://github.com/SM2-wiki/SM2-wiki/)
+
 Powered by [Mkdocs](https://www.mkdocs.org)
+
 
 ### To-do list
 
@@ -25,7 +28,7 @@ Powered by [Mkdocs](https://www.mkdocs.org)
 - *update SM2 in wikipedia
 
 
-### contact me:
+### Contact me:
 
 QQ: 2427367956
 
