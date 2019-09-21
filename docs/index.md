@@ -38,7 +38,7 @@ title: SM2 Wiki
 
 ## More information
 
-为了**SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
+为了 **SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
 
 目前团队中只有我一人，希望日后有更多的人加入，让 **SM2 Wiki** 变得越来越好
 
