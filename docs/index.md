@@ -4,33 +4,39 @@ title: SM2 Wiki
 
 ## Introduction
 
-欢迎来到 **SM2 Wiki**!，是关于新加坡 **SM2(Senior Middle 2)** 奖学金项目的一个 **免费** 以及 **公开** 的知识整合站点。
+欢迎来到 **SM2 Wiki**!
 
-我们希望在这里你可以:
+此网站是关于新加坡 **SM2(Senior Middle 2)** 奖学金项目的一个 **免费**，**公开** 的知识整合站点。
 
-- 了解 **SM2** 这个奖学金项目
+这里您可以获得：
 
-- 获得如何准备这个奖学金项目的指导与提示
+- 关于SM2项目的基本介绍
 
-- 看到历届 **SM2** 学生的经验心得
+- 关于如何准备这个奖学金项目的指导与提示
 
-- 知道如何准备上坡以及上坡后的注意事项
+- 往届 **SM2** 学生的经验及心得
 
-- ...
+- 准备上坡的注意事项
 
-总之，创建这个网站的初衷就是为了帮助那些对这个奖学金项目感兴趣或正在准备的同学们提供帮助及参考。在[关于](https://sm2-wiki.github.io/SM2-wiki/intro/about/)中你可以看到更多相关信息
+- 上坡后的注意事项
 
-它的创立灵感则来自于 **[OI Wiki](https://oi-wiki.org/)** ，从它的 [**github** 仓库](https://github.com/OI-wiki/OI-wiki/) 中得到了许多帮助，也参考了它的设计理念与模式，在这里十分感谢。
+- 其他
+
+## 创建初衷 & 灵感
+
+创建这个网站的初衷是帮助对这个奖学金项目感兴趣或已经着手准备的同学更加便捷地查找相关资料以及获得来自往届学生的实时帮助。在[关于](https://sm2-wiki.github.io/SM2-wiki/intro/about/)中您可以看到更多这个站点的相关信息。
+
+它的创立灵感则来自于 [**OI Wiki**](https://oi-wiki.org/) 。本项目从它的 [**github** 仓库](https://github.com/OI-wiki/OI-wiki/) 中得到了许多帮助，同时也参考了它的设计理念与设计模式，特在此致谢。
 
 ## How to make SM2 Wiki better
 
-如你所见这个网站还是否初级，许多内容等待添加，因此我们欢迎你们的贡献
+如您所见，这个网站仍相对简单，尚有许多内容等待添加，因此我们诚邀您的加入！
 
-关于如何贡献网站的知识内容，其实我也在思考，日后将发布详细说明
+如果您擅长前端开发，懂得如何在 [**mkdocs-material** 主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) ，让这个站点变得更 cool!
 
-但是如果你会前端开发，知道如何在 [**mkdocs-material** 主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 让这个站点变得更 cool!
+丰富网站内容的具体方法尚未完善。详细说明将在完善后发布。
 
-如果你有什么建议，欢迎线上或线下与我联系
+若有宝贵的建议，欢迎您在线上或线下与我联系！
 
 ## Copyleft
 
@@ -38,7 +44,7 @@ title: SM2 Wiki
 
 ## More information
 
-为了**SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
+为了 **SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
 
 目前团队中只有我一人，希望日后有更多的人加入，让 **SM2 Wiki** 变得越来越好
 
