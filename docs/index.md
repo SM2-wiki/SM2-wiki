@@ -28,7 +28,7 @@ title: SM2 Wiki
 
 关于如何贡献网站的知识内容，其实我也在思考，日后将发布详细说明
 
-但是如果你会前端开发，知道如何在 [**mkdocs-material**主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 让这个站点变得更 cool!
+但是如果你会前端开发，知道如何在 [**mkdocs-material** 主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 让这个站点变得更 cool!
 
 如果你有什么建议，欢迎线上或线下与我联系
 
@@ -38,7 +38,7 @@ title: SM2 Wiki
 
 ## More information
 
-为了**SM2 Wiki**的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
+为了**SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
 
 目前团队中只有我一人，希望日后有更多的人加入，让 **SM2 Wiki** 变得越来越好
 
