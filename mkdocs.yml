@@ -17,7 +17,7 @@ google_analytics:
 nav:
 
    - 主页:
-      - 简介: index.md
+      - Welcome to SM2 Wiki!: index.md
       - 关于: intro/about.md
   
 theme:
