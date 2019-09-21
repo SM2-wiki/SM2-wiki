@@ -95,7 +95,7 @@ title: SM2 Wiki
 
 ### Accent colors 辅助色
 
-> 默认为 `blue` 
+> 默认为 `white` 
 
 点击色块更换主题的辅助色
 
