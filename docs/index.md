@@ -2,8 +2,6 @@ title: SM2 Wiki
 
 # Welcome to **SM2 Wiki**!  [![GitHub watchers](https://img.shields.io/github/watchers/SM2-wiki/SM2-wiki.svg?style=social&label=Watch)](https://github.com/SM2-wiki/SM2-wiki)  [![GitHub stars](https://img.shields.io/github/stars/SM2-wiki/SM2-wiki.svg?style=social&label=Stars)](https://github.com/SM2-wiki/SM2-wiki) 
 
----
-
 ## Introduction
 
 欢迎来到 **SM2 Wiki**!，是关于新加坡 **SM2(Senior Middle 2)** 奖学金项目的一个 **免费** 以及 **公开** 的知识整合站点。
