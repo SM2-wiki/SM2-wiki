@@ -1,4 +1,5 @@
 pagetime: 'on'
+date: 2019/9/22
 web: https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/intro/about.md
 
 # 关于 **SM2 Wiki**
