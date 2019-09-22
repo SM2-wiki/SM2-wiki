@@ -25,7 +25,7 @@ function foo(response) {
     var ti = new Date(data[0].commit.author.date).toLocaleString('zh-CN', { timeZone: "Asia/Shanghai", hour12: false });
 
     var author_list = document.getElementsByClassName('page_contributors')[0].innerHTML.split(', ');
-    author_list = author_list.filter((e)=> {return e != 'OI-wiki'})
+    author_list = author_list.filter((e)=> {return e != 'SM2-wiki'})
     for (var i = 0; i < num; ++i) {
       author_list.push(data[i].author.login);
     }
@@ -51,6 +51,8 @@ function foo(response) {
   } else if (!url.endsWith('index')) {
     url += '/index';
     var script = document.createElement('script');
+     var script = document.createElement('script');
+    document.getElementsByClassName('page_info')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/blob/master/docs/${url}`);
     document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/${url}`);
     script.src = `https://api.github.com/repos/SM2-wiki/SM2-wiki/commits?path=docs/${url}&callback=foo`;
     document.getElementsByTagName('head')[0].appendChild(script);
