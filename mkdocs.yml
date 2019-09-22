@@ -37,6 +37,7 @@ extra:
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   manifest: 'manifest.webmanifest'
+  disqus: 'SM2-wiki'
   social:
     - type: github
       link: https://github.com/SM2-wiki
