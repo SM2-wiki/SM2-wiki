@@ -39,7 +39,7 @@ function foo(response) {
     var sorted = Object.keys(cnts).sort(function (a, b) {
       return cnts[b] - cnts[a];
     });
-    var index = sorted.indexOf('24OI-bot');
+    var index = sorted.indexOf('SM2-wiki');
     if (index > -1) {
       sorted.splice(index, 1);
     }
@@ -51,23 +51,23 @@ function foo(response) {
   } else if (!url.endsWith('index')) {
     url += '/index';
     var script = document.createElement('script');
-    document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/OI-wiki/OI-wiki/commits/master/docs/${url}`);
-    script.src = `https://api.github.com/repos/OI-wiki/OI-WIki/commits?path=docs/${url}&callback=foo`;
+    document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/${url}`);
+    script.src = `https://api.github.com/repos/SM2-wiki/SM2-wiki/commits?path=docs/${url}&callback=foo`;
     document.getElementsByTagName('head')[0].appendChild(script);
   }
 }
 
 if (url == "/index.md") {
   // HomePage
-  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/OI-wiki/OI-wiki/commits/master/docs/index.md`);
-  script.src = `https://api.github.com/repos/OI-wiki/OI-WIki/commits?path=docs/index.md&callback=foo`;
+  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/index.md`);
+  script.src = `https://api.github.com/repos/SM2-wiki/SM2-wiki/commits?path=docs/index.md&callback=foo`;
   document.getElementsByTagName('head')[0].appendChild(script);
 } else if (typeof(url) != 'undefined') {
-  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/OI-wiki/OI-wiki/commits/master/docs${url}`);
-  script.src = `https://api.github.com/repos/OI-wiki/OI-WIki/commits?path=docs${url}&callback=foo`;
+  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/commits/master/docs${url}`);
+  script.src = `https://api.github.com/repos/SM2-wiki/SM2-wiki/commits?path=docs${url}&callback=foo`;
   document.getElementsByTagName('head')[0].appendChild(script);
 } else {
-  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/OI-wiki/OI-wiki/commits/master`);
+  document.getElementsByClassName('edit_history')[0].setAttribute('href', `https://github.com/SM2-wiki/SM2-wiki/commits/master`);
   document.getElementsByClassName('facts_modified')[0].innerHTML = ('最近没更新过这个页面');
   document.getElementsByClassName('page_contributors')[0].innerHTML = ('本页面是自动生成的');
   document.getElementsByClassName('page_edit_url')[0].setAttribute('href', `#`);
