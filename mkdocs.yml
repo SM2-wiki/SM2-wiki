@@ -45,12 +45,17 @@ extra:
     language: 'jp'
   
 extra_javascript:
+<<<<<<< HEAD
  # - '_static/js/extra.js?v=15'
   - '_static/js/jquery-3.2.1.min.js'
+=======
+  - '_static/js/extra.js?v=15'
+  - _static/js/jquery-3.2.1.min.js
+>>>>>>> e4ca748c0bd9a3bfd7beb5a6507c7c6fa694a1d6
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
 
 extra_css:
-  - '_static/css/extra.css'
+  - _static/css/extra.css
 
 
 markdown_extensions:
