@@ -19,6 +19,7 @@ nav:
    - 主页:
       - Welcome to SM2 Wiki!: index.md
       - 关于: intro/about.md
+      - 如何做出贡献: intro/htc.md
   
 theme:
   name: 'material'
