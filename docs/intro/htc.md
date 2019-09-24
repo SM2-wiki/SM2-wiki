@@ -7,15 +7,15 @@ web: https://github.com/SM2-wiki/SM2-wiki/new/master/docs/intro
 
 #### 与项目小组成员联系
 
-访问我们的[项目小组](https://github.com/SM2-wiki), 目前成员人数: ``1``
+查看我们的[项目小组](https://github.com/SM2-wiki), 目前成员人数: ``1``
 
 - @[Rye-Catcher](https://github.com/Rye-Catcher)
-
-  :email: lyuxiaot@gmail.com
+   :email: lyuxiaot@gmail.com
   
-  :speech_balloon: QQ: 2427367956 
+   :speech_balloon: QQ: 2427367956 
 
 如果条件允许，欢迎与我们线下交流 (如果你知道是谁的话 :smirk:
+
 
 
 #### 在 **Github** 上创建 **issue**
