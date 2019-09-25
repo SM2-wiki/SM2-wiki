@@ -20,6 +20,8 @@ nav:
       - Welcome to SM2 Wiki!: index.md
       - 关于: intro/about.md
       - 如何做出贡献: intro/htc.md
+      - Github 快速上手: intro/git_ins.md
+      - 编辑格式指示: intro/edit_ins.md
   
 theme:
   name: 'material'
