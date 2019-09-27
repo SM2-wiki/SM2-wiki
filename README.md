@@ -43,19 +43,7 @@
 
 ## To-do list
 
-- Page-copyright
-
-- gitalk
-
-- write instructions on markdown format
-
-- ~write a blog passage about this experience~
-
-- add more contents to README.md , index.md and about.md
-
-  - introduction to SM2 
-  
-  - maybe generate an image of SM2
+- Page Progress: https://github.com/SM2-wiki/SM2-wiki/projects/1
   
 - *update SM2 in wikipedia
 
