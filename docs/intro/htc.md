@@ -24,7 +24,7 @@ web: https://github.com/SM2-wiki/SM2-wiki/new/master/docs/intro
 
 成员列表:
 
-!!! note "note"
+!!! note "Lyu"
     @[Rye-Catcher](https://github.com/Rye-Catcher)
     :email: lyuxiaot@gmail.com
     :speech_balloon: QQ: 2427367956 
