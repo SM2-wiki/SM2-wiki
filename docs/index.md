@@ -46,15 +46,11 @@ web: https://github.com/SM2-wiki/SM2-wiki/blob/master/docs/index.md
 
 ## More information
 
-为了 **SM2 Wiki** 的长久发展，我创立了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
+为了 **SM2 Wiki** 的长久发展，项目创立者创建了小组 [**SM2 Wiki Team**](https://github.com/SM2-wiki) 来管理它。
 
-目前团队中只有我一人，希望日后有更多的人加入，让 **SM2 Wiki** 变得越来越好
+目前团队中只有一人，希望日后有更多的人加入，让 **SM2 Wiki** 变得越来越好
 
-以下是我的联系方式:
-
-- QQ: 2427367956
-
-- e-mail: lyuxiaot@gmail.com
+联系团队成员请参见 [如何做出你的贡献](https://sm2-wiki.github.io/SM2-wiki/intro/htc/)
 
 > Project started from 2019/9/19
 
