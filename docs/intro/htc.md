@@ -37,7 +37,7 @@ web: https://github.com/SM2-wiki/SM2-wiki/new/master/docs/intro
 
 为方便管理，目前编辑与新建页面均由QQ群内人员负责；如您已在群里，请检查群内公告
 
-大致内容完善后将接受 ``pull request``
+大致内容完善后将考虑接受非群员的 ``pull request``
 
 
 
