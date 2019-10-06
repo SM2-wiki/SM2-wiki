@@ -85,9 +85,80 @@
   
   :grinning:   :face_with_raised_eyebrow:    :man_technologist:
 
-  
 
+### 数学公式
 
+基本格式
 
+```
+### 行内数学公式(只能有一行公式)
+$公式$
+
+### 公式块(多行公式)
+$$
+公式块
+$$
+```
+
+在 **SM2-wiki** 中一般使用行内公式就可以了
+
+同样的您可以在 [**StackEdit**](https://stackedit.io/app#) 上或是下载使用 (**Typora**)[https://typora.io/] 编辑数学公式
+
+公式里面写什么? 
+
+```
+### 注意使用{}
+$2^n+1$
+$2^{n+1}$
+$2^-1$
+$2^{-1}$
+```
+$2^n+1$  
+$2^{n+1}$  
+$2^-1$   
+$2^{-1}$  
+
+```
+### ^表示上标
+$2^n$
+$2^{n}^{n+1}$
+```
+$2^n$  
+$2^{n}^{n+1}$  
+
+```
+### _表示下标
+$a_{n+1}$
+$(10101)_2$
+```
+$a_{n+1}$  
+$(10101)_2$  
+
+```
+### 上标与下标结合
+$\sum_{n=0}^{\infin} x^n$
+```
+$\sum_{n=0}^{\infin} x^n$  
+
+```
+### 常见数学符号
+$\sin x  \cos' x \tan^2 x$
+$\sum_{n=0}^{\infin} x^n$
+$\frac{n+1}{n}$
+$\lfloor \frac{n}{2} \rfloor$
+```
+
+$\sin x  \cos' x \tan^2 x$  
+$\sum_{n=0}^{\infin} x^n$  
+$\frac{n+1}{n}$  
+$\lfloor \frac{n}{2} \rfloor$
+
+更多教程
+
+- https://blog.lindexi.com/post/latex-%E5%85%AC%E5%BC%8F%E9%80%9F%E6%9F%A5#%E5%9C%86%E7%82%B9
+
+- http://mohu.org/info/symbols/symbols.htm
+
+- https://blog.csdn.net/gsww404/article/details/78684278
 
 
