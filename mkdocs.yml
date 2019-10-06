@@ -22,7 +22,33 @@ nav:
       - 如何做出贡献: intro/htc.md
       - Github 操作指北: intro/git_ins.md
       - 编辑格式指示: intro/edit_ins.md
-  
+   - 省试/校试:
+      - 简介: pro_school_test/index.md
+      - 省试: 
+        - 江西省省试: pro_school_test/pro/jx.md
+        - 吉林省省试: pro_school_test/pro/jl.md
+   - 笔试:
+      - 简介: exam/index.md
+      - 数学:
+        - 函数: exam/math/function.md
+        - 组合数学: exam/math/combination.md
+        - 平面几何: exam/math/geometry.md
+      - 物理:
+        - 力学: exam/physics/mechanics.md
+        - 电磁学: exam/physics/electromagnetism.md
+        - 光学: exam/physics/optics.md
+        - 热力学: exam/physics/thermodynamics.md
+      - 向性测试: 
+        - 向性测试: exam/GAT/GAT.md
+   - 面试:
+      - 简介: interview/index.md
+      - 如何准备: interview/prepare.md
+      - 注意事项: interview/notice.md 
+   - 上坡指南:
+      - 简介: guide/index.md
+      - 物品清单: guide/list.md
+      - 预科生活预览: guide/preview.md
+
 theme:
   name: 'material'
   language: 'zh'
