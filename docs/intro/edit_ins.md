@@ -4,7 +4,7 @@
 
 中文与英文字母之间请用一个空格隔开, 如: 我是练习 CS:GO 两年的白给生。
 
-注意**逗号**的使用，英文逗号后请打一个空格，如: So it's fare thee well, my darling true. 
+注意逗号的使用，英文逗号后请打一个空格，如: So it's fare thee well, my darling true. 
 
 中文的全角逗号后请不要添加空格，如: 我起了，一枪秒了，有什么好说的。
 
@@ -14,7 +14,7 @@
 
 页面编辑支持 **Markdown** 格式 ([什么是 **Markdown** ](http://www.runoob.com/markdown/md-tutorial.html))
 
-您可以在 [StackEdit](https://stackedit.io/app#) 这个网站上使用 **Markdown** 在线编辑，或是下载使用 (**Typora**)[https://typora.io/] 编辑器
+您可以在 [StackEdit](https://stackedit.io/app#) 这个网站上使用 **Markdown** 在线编辑，或是下载使用 [**Typora**](https://typora.io/) 编辑器
 
 **Markdown** 的语法上手非常容易，您可以在刚刚的[网站](http://www.runoob.com/markdown/md-tutorial.html)中查阅简单教程，这里只给出一些示范和需要注意的地方
 
@@ -83,8 +83,9 @@
   
   [使用 emoji ](https://cyent.github.io/markdown-with-mkdocs-material/syntax/emoji_usage/) 
   
-  :grinning:   :face_with_raised_eyebrow:    :man_technologist:
-
+  :grinning:   
+  :face_with_raised_eyebrow:    
+  :man_technologist:
 
 ### 数学公式
 
@@ -102,7 +103,7 @@ $$
 
 在 **SM2-wiki** 中一般使用行内公式就可以了
 
-同样的您可以在 [**StackEdit**](https://stackedit.io/app#) 上或是下载使用 (**Typora**)[https://typora.io/] 编辑数学公式
+同样的您可以在 [**StackEdit**](https://stackedit.io/app#) 上或是下载使用 [**Typora**](https://typora.io/) 编辑数学公式
 
 公式里面写什么? 
 
@@ -121,10 +122,10 @@ $2^{-1}$
 ```
 ### ^表示上标
 $2^n$
-$2^{n}^{n+1}$
+${2^{n}}^{n+1}$
 ```
 $2^n$  
-$2^{n}^{n+1}$  
+${2^{n}}^{n+1}$  
 
 ```
 ### _表示下标
@@ -136,20 +137,20 @@ $(10101)_2$
 
 ```
 ### 上标与下标结合
-$\sum_{n=0}^{\infin} x^n$
+$\sum_{n=0}^{\infty} x^n$
 ```
-$\sum_{n=0}^{\infin} x^n$  
+$\sum_{n=0}^{\infty} x^n$  
 
 ```
 ### 常见数学符号
 $\sin x  \cos' x \tan^2 x$
-$\sum_{n=0}^{\infin} x^n$
+$\sum_{n=0}^{\infty} x^n$
 $\frac{n+1}{n}$
 $\lfloor \frac{n}{2} \rfloor$
 ```
 
 $\sin x  \cos' x \tan^2 x$  
-$\sum_{n=0}^{\infin} x^n$  
+$\sum_{n=0}^{\infty} x^n$  
 $\frac{n+1}{n}$  
 $\lfloor \frac{n}{2} \rfloor$
 
