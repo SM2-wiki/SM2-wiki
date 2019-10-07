@@ -18,10 +18,14 @@ nav:
 
    - 主页:
       - Welcome to SM2 Wiki!: index.md
-      - 关于: intro/about.md
+      - SM2奖学金项目介绍: intro/sm2.md
+      - 学长学姐们的话:
+        - Batch 23: intro/exp/batch23.md
+        - Batch 22: intro/exp/batch22.md 
       - 如何做出贡献: intro/htc.md
       - Github 操作指北: intro/git_ins.md
       - 编辑格式指示: intro/edit_ins.md
+      - 关于SM2 Wiki: intro/about.md
    - 省试/校试:
       - 简介: pro_school_test/index.md
       - 省试: 
@@ -44,10 +48,13 @@ nav:
       - 简介: interview/index.md
       - 如何准备: interview/prepare.md
       - 注意事项: interview/notice.md 
-   - 上坡指南:
+   - 上坡准备指南:
       - 简介: guide/index.md
       - 物品清单: guide/list.md
-      - 预科生活预览: guide/preview.md
+      - 预科生活预览:
+        - NUS|新加坡国立大学: guide/preview/nus.md
+        - NTU|南洋理工大学: guide/preview/ntu.md
+        - SUTD|新加坡科学与设计大学: guide/preview/sutd.md
 
 theme:
   name: 'material'
