@@ -24,6 +24,8 @@ web: https://github.com/SM2-wiki/SM2-wiki/blob/master/docs/index.md
 
 - 其他
 
+建议在电脑端浏览器浏览以获得最佳体验
+
 ## 创建初衷 & 灵感
 
 创建这个网站的初衷是帮助对这个奖学金项目感兴趣或已经着手准备的同学更加便捷地查找相关资料以及获得来自往届学生的实时帮助。在[关于](https://sm2-wiki.github.io/SM2-wiki/intro/about/)中您可以看到更多这个站点的相关信息。
