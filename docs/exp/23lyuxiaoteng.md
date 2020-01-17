@@ -204,10 +204,10 @@ MOE黄大妈就开玩笑告诉我到了新加坡不要整天钻研chicken and eg
 
 ### SPECIAL THANKS TO
 
-江科$$cxy,dsb,ab,ljw$$学长们 
+江科$cxy,dsb,ab,ljw$学长们 
 
-我的室友$$jyh,djc$$
+我的室友$jyh,djc$
 
-高二信息组成员:$$hzw$$老师,$$jyh,ljy$$
+高二信息组成员:$hzw$老师,$jyh,ljy$
 
 食堂思想家主席,蒋公
