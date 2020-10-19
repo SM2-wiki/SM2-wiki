@@ -32,7 +32,7 @@
 
 如您所见，这个网站仍相对简单，尚有许多内容等待添加，因此我们诚邀您的加入！
 
-如果您擅长前端开发，懂得如何在 [**mkdocs-material** 主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) ，让这个站点变得更 cool!
+如果您擅长前端开发，懂得如何在 [**mkdocs-material** 主题](https://s0squidfunk0github0io.icopy.site/mkdocs-material/) 中自定义主题来完善更多功能，欢迎联系我来加入 [**SM2 Wiki Team**](https://github.com/SM2-wiki) ，让这个站点变得更cool!
 
 丰富网站内容的具体方法尚未完善。详细说明将在完善后发布。
 
@@ -47,14 +47,14 @@
 
 - Page Progress: https://github.com/SM2-wiki/SM2-wiki/projects/1
   
-- *update SM2 in wikipedia
+- *Update SM2 in Wikipedia (Draft: https://en.wikipedia.org/wiki/User:%E9%9A%8B%E5%8D%9E/SM2_Scholarship)
 
 
 ## Contact me:
 
 QQ: 2427367956
 
-e-mail: lyuxiaot@gmail.com
+[E-mail](mailto:lyuxiaot@gmail.com)
 
 
 > Project started from 2019/9/19
