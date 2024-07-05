@@ -15,7 +15,6 @@ google_analytics:
   - 'auto'
   
 nav:
-
    - 主页:
       - Welcome to SM2 Wiki!: index.md
       - SM2奖学金项目介绍: intro/sm2.md
@@ -26,6 +25,9 @@ nav:
       - Github 操作指北: intro/git_ins.md
       - 编辑格式指示: intro/edit_ins.md
       - 关于SM2 Wiki: intro/about.md
+   - 人生经验:
+      - 23届-NUS-四川-章鱼哥: exp/23zhangyuge.md
+      - 23届-NUS-江西-Rat: exp/23lyuxiaoteng.md
    - 省试/校试:
       - 简介: pro_school_test/index.md
       - 省试: 
@@ -75,7 +77,7 @@ extra:
   manifest: 'manifest.webmanifest'
   disqus: 'SM2-wiki'
   social:
-    - type: github
+    - icon: fontawesome/brands/github
       link: https://github.com/SM2-wiki
   search:
     language: 'jp'
