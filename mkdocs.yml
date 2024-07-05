@@ -10,9 +10,6 @@ edit_uri: 'edit/master/docs/'
 
 copyright: 'Copyright &copy; 2019 SM2-wiki Team'
 
-google_analytics:
-  - 'UA-148396512-1'
-  - 'auto'
   
 nav:
    - 主页:
@@ -72,6 +69,9 @@ theme:
   
 extra:
   #disqus: 'SM2-wiki'
+  analytics:
+    provider: google
+    property: UA-148396512-1
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   manifest: 'manifest.webmanifest'
@@ -108,8 +108,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      #emoji_generator: !!python/name:pymdownx.emoji.to_png
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       #emoji_generator: !!python/name:pymdownx.emoji.to_png_sprite
       #emoji_generator: !!python/name:pymdownx.emoji.to_svg_sprite
       #emoji_generator: !!python/name:pymdownx.emoji.to_awesome

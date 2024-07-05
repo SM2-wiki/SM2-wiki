@@ -79,9 +79,10 @@
   
 - 更多语法
 
-  参见 [cyent 的教程](https://cyent.github.io/markdown-with-mkdocs-material/syntax/main/)
+  参见 [Material 主题官方教程](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#icons-emojis)
   
-  [使用 emoji ](https://cyent.github.io/markdown-with-mkdocs-material/syntax/emoji_usage/) 
+  [使用 emoji ](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#using-emojis) 
+  以及一个 [emoji 代码查找网站](https://emojipedia.org/twitter)
   
   :grinning:   
   :face_with_raised_eyebrow:    
