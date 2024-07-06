@@ -8,14 +8,10 @@ repo_url: 'https://github.com/SM2-wiki/SM2-wiki'
 edit_uri: 'edit/master/docs/'
 
 
-copyright: 'Copyright &copy; 2019 SM2-wiki Team'
+copyright: 'Copyright &copy; 2019 - 2024 SM2-wiki Team'
 
-google_analytics:
-  - 'UA-148396512-1'
-  - 'auto'
   
 nav:
-
    - 主页:
       - Welcome to SM2 Wiki!: index.md
       - SM2奖学金项目介绍: intro/sm2.md
@@ -26,6 +22,9 @@ nav:
       - Github 操作指北: intro/git_ins.md
       - 编辑格式指示: intro/edit_ins.md
       - 关于SM2 Wiki: intro/about.md
+   - 人生经验:
+      - 23届-NUS-四川-章鱼哥: exp/23zhangyuge.md
+      - 23届-NUS-江西-Rat: exp/23lyuxiaoteng.md
    - 省试/校试:
       - 简介: pro_school_test/index.md
       - 省试: 
@@ -58,24 +57,48 @@ nav:
 
 theme:
   name: 'material'
+  custom_dir: overrides
   language: 'zh'
   palette:
-    primary: 'blue'
-    accent: 'red'
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
   feature:
     tabs: true
+  features:
+    - content.action.edit
+    - content.action.view
+    - navigation.instant
   font: 
     text: 'Fira Sans'
     code: 'Roboto Mono'
   
 extra:
   #disqus: 'SM2-wiki'
+  analytics:
+    provider: google
+    property: UA-148396512-1
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   manifest: 'manifest.webmanifest'
-  disqus: 'SM2-wiki'
+  #disqus: 'SM2-wiki'
   social:
-    - type: github
+    - icon: fontawesome/brands/github
       link: https://github.com/SM2-wiki
   search:
     language: 'jp'
@@ -106,8 +129,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      #emoji_generator: !!python/name:pymdownx.emoji.to_png
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       #emoji_generator: !!python/name:pymdownx.emoji.to_png_sprite
       #emoji_generator: !!python/name:pymdownx.emoji.to_svg_sprite
       #emoji_generator: !!python/name:pymdownx.emoji.to_awesome
