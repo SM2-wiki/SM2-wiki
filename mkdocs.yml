@@ -57,12 +57,33 @@ nav:
 
 theme:
   name: 'material'
+  custom_dir: overrides
   language: 'zh'
   palette:
-    primary: 'blue'
-    accent: 'red'
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
   feature:
     tabs: true
+  features:
+    - content.action.edit
+    - content.action.view
+    - navigation.instant
   font: 
     text: 'Fira Sans'
     code: 'Roboto Mono'
@@ -75,7 +96,7 @@ extra:
   pagetime: 'on'
   copyright: '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>'
   manifest: 'manifest.webmanifest'
-  disqus: 'SM2-wiki'
+  #disqus: 'SM2-wiki'
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/SM2-wiki

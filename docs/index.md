@@ -1,3 +1,6 @@
+---
+comments: true
+---
 title: SM2 Wiki
 date: 2019/9/22
 web: https://github.com/SM2-wiki/SM2-wiki/blob/master/docs/index.md
@@ -28,7 +31,7 @@ web: https://github.com/SM2-wiki/SM2-wiki/blob/master/docs/index.md
 
 ## 创建初衷 & 灵感 Origin
 
-创建这个网站的初衷是帮助对这个奖学金项目感兴趣或已经着手准备的同学更加便捷地查找相关资料以及获得来自往届学生的实时帮助。在[关于](https://sm2-wiki.github.io/SM2-wiki/intro/about/)中您可以看到更多这个站点的相关信息。
+创建这个网站的初衷是帮助对这个奖学金项目感兴趣或已经着手准备的同学更加便捷地查找相关资料以及获得来自往届学生的实时帮助。在[关于](./intro/about.md)中您可以看到更多这个站点的相关信息。
 
 它的创立灵感则来自于 [**OI Wiki**](https://oi-wiki.org/) 。本项目从它的 [**GitHub** 仓库](https://github.com/OI-wiki/OI-wiki/) 中得到了许多帮助，同时也参考了它的设计理念与设计模式，特在此致谢。
 
