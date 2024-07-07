@@ -4,7 +4,7 @@ web: https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/intro/about.md
 
 # 关于 **SM2 Wiki**
 
-### 它的故事
+### 它的故事 - 2019
 
 为了让对这个奖学金项目感兴趣的人更好地了解这个项目，也为了学弟学妹方便的找到更多的相关资料(网上的资料实在是太少了)，深受 [OI wiki](https://oi-wiki.org/) 启发的我在一节 C 语言 lab 上决定搭一个SM2 wiki. 
 
@@ -14,7 +14,19 @@ web: https://github.com/SM2-wiki/SM2-wiki/commits/master/docs/intro/about.md
 
 如你所见这个网站还相当的简单，希望日后能得到你们的帮助。
 
----
+> [Crow Lyu](https://github.com/Rye-Catcher)
+> 于2019/9/20午夜 @PGPR
 
-[Crow Lyu](https://github.com/Rye-Catcher)
-于2019/9/20午夜 @PGPR
+### 复活！- 2024
+
+> “一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程”
+
+2020 疫情后 SM2 奖学金计划便处于“无限期”搁置的状态，也曾以为我们是最后一届的幸运儿。但从今年初开始，关于 SM2 重启的传闻便不曾间断。
+
+我也一直有着重启网站的想法，但由于个人生活的琐事和拖延症一直未能实施，直到前日收到[ SuibianP ](https://github.com/SuibianP)的主动请缨，才终于下定决心花了两晚升级站点。看着记录里上一次在 2020年的部署时间，不由得感叹万千。这将近 5 年的时光里，有太多随着时间的河流被永久的改变，也有太多静静地被困在某处时光里，落满了尘埃。
+
+无论如何，很高兴这个网站能够再次获得新生，在此感谢所有为这个项目提供帮助的人，也希望更多往届的学生能够参与进来丰富站点内容，为后生造福。
+
+> [Lyu](https://github.com/Rye-Catcher)
+> 于2024/7/7夜
+
