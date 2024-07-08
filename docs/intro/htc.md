@@ -10,22 +10,22 @@ web: https://github.com/SM2-wiki/SM2-wiki/new/master/docs/intro
 - [ ] 面试: 如果您有任何面筋（面试经验）或者记录整个 SM2 的准备流程想放在网站分享的话，我们都非常欢迎！
 - [ ] 来坡准备
 
-请注明您想在网站上显示的名字 and/or 社交链接。如果您提供的内容有所帮助，我们将会把您提供的名字列为贡献者之一
+请注明您想在网站上显示的名字，并且可以附上您的邮箱或者一个社交链接。如果您提供的内容有所帮助，我们将会把您提供的名字列为贡献者之一
 
 ## 怎么提交？
 
-### 方法1: 在 **Github** 上创建 **issue**
+### 方法1: 在 GitHub 上创建 issue
 
-在[**这里**](https://github.com/SM2-wiki/SM2-wiki/issues)创建您的 **issue**
-
-请将您的 **issue** 分类标上 **label** 以便我们处理;
+在[**这里**](https://github.com/SM2-wiki/SM2-wiki/issues)创建您的 issue，并附上您想贡献的内容/建议
 
 !!! note "怎样创建issue?"
-    0. 确保您登陆了您的 **Github** 账号; 如果您没有，可以注册一个, 建议不要用您的大学学生邮箱作为注册邮箱
-    1. 在[此页面](https://github.com/SM2-wiki/SM2-wiki/issues)点击绿色的 **New Issue** 按钮
-    2. 在左侧写上 **issue** 的标题与内容, 支持 **markdown** 格式, 您可以点击 **preview** 预览您的内容
-    3. 点击右侧栏 **label** 处，选择绿色的 “建议 & 问题” **label**
-    4. 点击 **submit new issue**。之后请等待我们的回复，任何回复将会以发送到账号注册邮箱的方式提醒您
+    0. 确保您登陆了您的 GitHub 账号; 如果您没有，需要您注册一个新账号, 建议不要使用大学学生邮箱作为注册邮箱
+    1. 详细阅读 GitHub 提供的[官方文档](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart#opening-a-blank-issue)
+    2. 前往[此页面](https://github.com/SM2-wiki/SM2-wiki/issues)创建 issue
+    3. 在文本框内输入内容，并附上合适的标题。文本编辑支持 Markdown 格式, 您可以点击 preview 预览您的内容
+    4. 点击右侧栏 label 处，选择绿色的 “建议 & 问题”标签
+    5. 提交之后请等待我们的回复，任何回复将会以发送到 GitHub 账号注册邮箱的方式提醒您
+
 
 ### 方法2: 邮箱投稿
 
